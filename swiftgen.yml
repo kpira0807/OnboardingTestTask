@@ -1,0 +1,11 @@
+strings:
+  inputs: OnboardingTestTask/Resources
+  outputs:
+    - templateName: structured-swift4
+      output: OnboardingTestTask/Resources/SwiftGen/strings.swift
+xcassets:
+  inputs:
+    - OnboardingTestTask/Resources/Assets.xcassets
+  outputs:
+    - templateName: swift4
+      output: OnboardingTestTask/Resources/SwiftGen/assets.swift

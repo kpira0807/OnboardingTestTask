@@ -1,0 +1,6 @@
+framework module Pods_OnboardingTestTask {
+  umbrella header "Pods-OnboardingTestTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
